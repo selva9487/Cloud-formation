@@ -1,0 +1,29 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "c9dfc94f-faf0-45f7-9171-b2814e163df6": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 239,
+                    "y": 112
+                },
+                "z": 0
+            }
+        }
+    },
+    "Resources": {
+        "CWD1G2J2": {
+            "Type": "AWS::CloudWatch::Dashboard",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "c9dfc94f-faf0-45f7-9171-b2814e163df6"
+                }
+            }
+        }
+    }
+}
